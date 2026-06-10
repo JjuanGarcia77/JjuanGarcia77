@@ -25,19 +25,19 @@
 
 ---
 
-### Professional Profile
+### Perfil Profesional
 
-Full Stack Developer specialized in developing modern web applications, scalable systems, and solutions driven by Artificial Intelligence. Experience in designing and implementing applications using JavaScript, React, Node.js, Python, and relational/NoSQL databases.
+Desarrollador Full Stack especializado en el desarrollo de aplicaciones web modernas, sistemas escalables y soluciones impulsadas por Inteligencia Artificial. Experiencia en el diseño e implementación de aplicaciones utilizando JavaScript, React, Node.js, Python y bases de datos relacionales y NoSQL.
 
-I have knowledge in applied AI, RAG (Retrieval-Augmented Generation) systems, and AI Agents, focused on optimizing workflows and creating intelligent solutions for business environments. I stand out for my ability to develop clean, maintainable, and result-oriented software.
+Tengo conocimientos en IA aplicada, sistemas RAG (Retrieval-Augmented Generation) y AI Agents, enfocados en la optimización de flujos de trabajo y la creación de soluciones inteligentes para entornos empresariales. Destaco por mi capacidad para desarrollar software limpio, mantenible y orientado a resultados.
 
-- **Location:** Medellin, Colombia
-- **Currently working on:** Intelligent Management Systems and Analytical Dashboards.
-- **Learning about:** Fine-tuning, Vector Databases, and advanced Automation.
+- **Ubicación:** Medellín, Colombia
+- **Actualmente trabajando en:** Sistemas Inteligentes de Gestión y Dashboards Analíticos.
+- **Aprendiendo sobre:** Fine-tuning, Bases de Datos Vectoriales y Automatización avanzada.
 
 ---
 
-### Tech Stack
+### Tecnologías y Herramientas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,react,html,css,nodejs,express,python,postgres,mysql,mongodb,git,github,postman,figma&perline=7" />
@@ -45,7 +45,7 @@ I have knowledge in applied AI, RAG (Retrieval-Augmented Generation) systems, an
 
 ---
 
-### GitHub Stats
+### Estadísticas de GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JjuanGarcia77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6441A5" alt="GitHub Stats" />
@@ -58,7 +58,7 @@ I have knowledge in applied AI, RAG (Retrieval-Augmented Generation) systems, an
 
 ---
 
-### Contribution Activity
+### Actividad de Contribuciones
 
 <div align="center">
   <picture>
@@ -70,11 +70,11 @@ I have knowledge in applied AI, RAG (Retrieval-Augmented Generation) systems, an
 
 ---
 
-### Experience
+### Experiencia
 
-- **Full Stack & AI Developer** | Intelligent Management System (2025 - Present)
-- **Full Stack Developer** | Academic Dashboard and Analytics (2024 - 2025)
-- **Full Stack Developer** | Web Projects and Automation (2024 - Present)
+- **Full Stack & AI Developer** | Sistema Inteligente de Gestión (2025 - Actualidad)
+- **Full Stack Developer** | Dashboard Académico y Analítica (2024 - 2025)
+- **Full Stack Developer** | Proyectos Web y Automatización (2024 - Actualidad)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=JjuanGarcia77&label=Profile%20views&color=6441A5&style=flat-square" alt="Profile views" />

@@ -43,6 +43,16 @@ I have knowledge in applied AI, RAG (Retrieval-Augmented Generation) systems, an
   <img src="https://skillicons.dev/icons?i=js,react,html,css,nodejs,express,python,postgres,mysql,mongodb,git,github,postman,figma&perline=7" />
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/RAG%20Systems-000000?style=for-the-badge&logo=openai&logoColor=white" alt="RAG Systems" />
+  <img src="https://img.shields.io/badge/AI%20Agents-1E3C72?style=for-the-badge&logo=dependabot&logoColor=white" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/Vector%20Databases-43853D?style=for-the-badge&logo=databricks&logoColor=white" alt="Vector DB" />
+</div>
+
 ---
 
 ### GitHub Stats
@@ -62,9 +72,9 @@ I have knowledge in applied AI, RAG (Retrieval-Augmented Generation) systems, an
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JjuanGarcia77/JjuanGarcia77/output/dist/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JjuanGarcia77/JjuanGarcia77/output/dist/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JjuanGarcia77/JjuanGarcia77/output/dist/github-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JjuanGarcia77/JjuanGarcia77/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JjuanGarcia77/JjuanGarcia77/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JjuanGarcia77/JjuanGarcia77/output/github-snake.svg">
   </picture>
 </div>
 

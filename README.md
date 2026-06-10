@@ -8,11 +8,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,0&height=300&section=header&text=Juan%20David%20Garcia&fontSize=60&animation=fadeIn&fontAlignY=38&fontColor=E0FFE8&desc=Full%20Stack%20Developer%20%7C%20AI%20Solutions%20Engineer&descAlignY=55&descSize=22&descColor=B2F5C8" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&pause=800&color=00FF7F&center=true&vCenter=true&width=700&height=45&lines=Full+Stack+Developer+%7C+AI+Engineer;n8n+%7C+RAG+Systems+%7C+AI+Agents;React+%7C+Node.js+%7C+Python+%7C+PostgreSQL;Building+intelligent+solutions+from+Medellin%2C+Colombia" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/JjuanGarcia77/JjuanGarcia77/main/animated-banner.svg" alt="Animated Banner" width="100%" />
 </div>
 
 <p align="center">

@@ -8,7 +8,11 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JjuanGarcia77/JjuanGarcia77/main/animated-banner.svg" alt="Animated Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A0E4E,50:7B2CBF,100:00FF7F&height=280&section=header&text=Juan%20David%20Garcia&fontSize=58&animation=fadeIn&fontAlignY=38&fontColor=E0FFE8&desc=Full%20Stack%20Developer%20%7C%20AI%20Solutions%20Engineer&descAlignY=56&descSize=22&descColor=B2F5C8" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JjuanGarcia77&bg_color=0D1117&color=00FF7F&line=7B2CBF&point=00FF7F&area=true&hide_border=true&area_color=7B2CBF" width="100%" alt="Contribution Graph" />
 </div>
 
 <p align="center">

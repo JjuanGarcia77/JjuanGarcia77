@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2a0845,6441A5,1E3C72,2A5298&height=300&section=header&text=Juan%20David%20Garcia&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Software%20Engineer&descAlignY=55&descSize=25" width="100%" />
+  <img src="animated-banner.svg" alt="Animated Banner" width="100%" />
 </div>
 
 <p align="center">
@@ -40,17 +40,21 @@ I have knowledge in applied AI, RAG (Retrieval-Augmented Generation) systems, an
 ### Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,nodejs,express,python,postgres,mysql,mongodb,git,github,postman,figma&perline=7" />
+  <img src="https://skillicons.dev/icons?i=js,react,ts,html,css,tailwind,nodejs,express,python,fastapi,postgres,mysql,mongodb,docker,git,github,postman,figma&perline=9" />
 </div>
 
 <br/>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Scrum-24A148?style=for-the-badge&logo=scrum&logoColor=white" alt="Scrum" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/RAG%20Systems-000000?style=for-the-badge&logo=openai&logoColor=white" alt="RAG Systems" />
-  <img src="https://img.shields.io/badge/AI%20Agents-1E3C72?style=for-the-badge&logo=dependabot&logoColor=white" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/Vector%20Databases-43853D?style=for-the-badge&logo=databricks&logoColor=white" alt="Vector DB" />
+  <img src="https://img.shields.io/badge/AI%20Agents-7B2CBF?style=for-the-badge&logo=dependabot&logoColor=white" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/Vector%20Databases-00FF7F?style=for-the-badge&logo=databricks&logoColor=white" alt="Vector DB" />
 </div>
 
 ---
@@ -58,12 +62,12 @@ I have knowledge in applied AI, RAG (Retrieval-Augmented Generation) systems, an
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JjuanGarcia77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6441A5" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JjuanGarcia77&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6441A5" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JjuanGarcia77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF7F&icon_color=7B2CBF&text_color=E0FFED" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JjuanGarcia77&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF7F&text_color=E0FFED" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JjuanGarcia77&theme=tokyonight&hide_border=true&background=0D1117&ring=6441A5&fire=1E3C72&currStreakLabel=6441A5" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JjuanGarcia77&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF7F&fire=7B2CBF&currStreakLabel=00FF7F&currStreakNum=00FF7F&sideNums=E0FFED&sideLabels=E0FFED&dates=E0FFED" alt="GitHub Streak" />
 </div>
 
 ---
